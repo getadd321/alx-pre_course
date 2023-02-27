@@ -1,2 +1,2 @@
 My Second README
-Assigmments almost done!
+Assignments almost done!
