@@ -1,1 +1,2 @@
-My second readme
+My Second README
+Assigmments almost done!
