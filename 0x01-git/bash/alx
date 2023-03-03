@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+
+echo "ALX School"
 #!/bin/bash
 echo "ALX school is so cool!"
 
-
-=======
-Developers agreed
-#To resolve conflict 
->>>>>>> update_script
